@@ -1,9 +1,7 @@
 # Classic Arcade Game Clone Project
 
-## Table of Contents
-
-- [Instructions](#instructions)
-- [Contributing](#contributing)
+## Demo
+https://romansaiko.github.io/frontend-nanodegree-arcade-game/
 
 ## Instructions
 
